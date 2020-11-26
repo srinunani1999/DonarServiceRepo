@@ -1,0 +1,10 @@
+2020-11-24 11:56:08,732 Application started. Press Ctrl+C to shut down.
+2020-11-24 11:56:08,745 Hosting environment: Development
+2020-11-24 11:56:08,747 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\DonarService
+2020-11-24 11:56:14,716 Http get request initiated for all donars
+2020-11-24 11:56:14,716 All the donars were displayed
+2020-11-24 17:39:18,208 Application started. Press Ctrl+C to shut down.
+2020-11-24 17:39:18,220 Hosting environment: Development
+2020-11-24 17:39:18,222 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\DonarService
+2020-11-24 17:39:24,156 Http get request initiated for all donars
+2020-11-24 17:39:24,156 All the donars were displayed
